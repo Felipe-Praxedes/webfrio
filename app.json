@@ -1,0 +1,10 @@
+{
+  "name": "webfrio",
+  "displayName": "webfrio",
+  "splash": {
+    "image": "./assets/SplashScreen.png",
+    "resizeMode": "contain",
+    "backgroundColor": "#ffffff"
+  }
+
+}
